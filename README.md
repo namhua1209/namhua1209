@@ -1,5 +1,5 @@
-# Hi there 👋
-# I'm a non-IT background person who is learning how to become a professional in the data field :blush:
+**Hi there 👋
+I'm a non-IT background person who is learning how to become a professional in the data field :blush:
 <!--
 **namhua1209/namhua1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
